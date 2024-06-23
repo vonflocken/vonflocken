@@ -1,4 +1,4 @@
-![profile](https://derkrassehacker.de/vonflocken.png)
+![profile](https://derkrassehacker.de/vonflocken.png?no-cache)
 
 <!--
 **vonflocken/vonflocken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
